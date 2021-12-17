@@ -9,7 +9,7 @@
       <router-link to="/showuser">showuser</router-link> |
       <router-link to="/insertf">insertf</router-link> |
       <router-link to="/login">login</router-link> |
-      
+      <router-link to="/shop">shop</router-link>
     </div>
     <router-view/>
   </div>
